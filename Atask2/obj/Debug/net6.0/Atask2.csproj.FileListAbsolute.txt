@@ -1,0 +1,5 @@
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework7/Atask2/obj/Debug/net6.0/Atask2.csproj.AssemblyReference.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework7/Atask2/obj/Debug/net6.0/Atask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework7/Atask2/obj/Debug/net6.0/Atask2.AssemblyInfoInputs.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework7/Atask2/obj/Debug/net6.0/Atask2.AssemblyInfo.cs
+/Users/mityukov/Desktop/GeekBrains/Homework/Homework7/Atask2/obj/Debug/net6.0/Atask2.csproj.CoreCompileInputs.cache
